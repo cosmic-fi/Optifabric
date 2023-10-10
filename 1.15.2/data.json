@@ -1,13 +1,13 @@
 [
     {
-        "url": "https://github.com/ori-labs/Ori-Core-Lib/raw/main/Optifabric/1.18/optifabric-1.12.7.jar",
-        "size": 394000,
+        "url": "https://github.com/cosmic-fi/Optifabric/raw/main/1.15.2/OptiFabric-v1.0.1.jar",
+        "size": 314000,
         "hash": "137363842c5bfdebb72356a4079faeef3157eb3c",
         "path": "mods/optifabric-1.12.7.jar"
     }, {
-        "url": "https://github.com/ori-labs/Ori-Core-Lib/raw/main/Optifabric/1.18/OptiFine_1.18_HD_U_H3.jar",
-        "size": 6170,
+        "url": "https://github.com/cosmic-fi/Optifabric/raw/main/1.15.2/OptiFine_1.15.2_HD_U_G6.jar",
+        "size": 5480,
         "hash": "047353676686858abf9da610b3bc1f5e5a6865fa",
-        "path": "mods/OptiFine.jar"
+        "path": "mods/OptiFine_1.15.2_HD_U_G6.jar"
     }
 ]
