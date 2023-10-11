@@ -13,6 +13,7 @@
             "type": "release",
             "url": "https://piston-meta.mojang.com/v1/packages/d1b78997b5a60c00194a7e44b065223615583ad5/1.20.1.json",
             "time": "2023-10-04T11:49:30+00:00",
+            "sha1": "d1b78sda997b5a60c00194a7e44b065223615583asd5",
             "releaseTime": "2023-06-12T13:25:51+00:00"
         },
         {
@@ -207,3 +208,4 @@
         }
     ]
 }
+
