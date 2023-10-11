@@ -1,9 +1,9 @@
 [
     {
-        "url": "https://github.com/cosmic-fi/Optifabric/raw/main/1.16.5/optifabric-1.13.16.jar",
+        "url": "https://github.com/cosmic-fi/Optifabric/raw/main/1.16.5/optifabric-1.10.2.jar",
         "size": 542000,
         "hash": "137363842c5bfdebb72356a4079faeef3157eb3c",
-        "path": "mods/optifabric-1.13.16.jar"
+        "path": "mods/optifabric-1.10.2.jar"
     }, {
         "url": "https://github.com/cosmic-fi/Optifabric/raw/main/1.16.5/OptiFine_1.16.5_HD_U_G8.jar",
         "size": 5770,
