@@ -218,5 +218,67 @@
         "time": "2023-06-07T11:09:02+00:00",
         "sha1": "c6308792661ce827a94d5a94ac3aed96ceaa4bca56",
         "releaseTime": "2021-01-14T16:05:32+00:00"
+    },{
+        "id": "1.16.4",
+        "type": "release",
+        "url": "https://piston-meta.mojang.com/v1/packages/596ad61fda7612d9edf8881cf81869276bdb7f82/1.16.4.json",
+        "time": "2023-06-07T11:09:02+00:00",
+        "releaseTime": "2020-10-29T15:49:37+00:00",
+        "sha1": "c6308792661ce827a94sdd5a94ac3aesaad96ceaa4bca56"
+    },
+    {
+        "id": "1.16.3",
+        "type": "release",
+        "url": "https://piston-meta.mojang.com/v1/packages/6485dd131ef68c968041a9f6fd73094b027e42e1/1.16.3.json",
+        "time": "2023-06-07T11:09:02+00:00",
+        "releaseTime": "2020-09-10T13:42:37+00:00"
+    },
+    {
+        "id": "1.16.2",
+        "type": "release",
+        "url": "https://piston-meta.mojang.com/v1/packages/998d9ef5770d05c20d760dc16cf85151f35009f2/1.16.2.json",
+        "time": "2023-06-07T11:09:02+00:00",
+        "releaseTime": "2020-08-11T10:13:46+00:00",
+        "sha1": "c630879266as1ce827a94d5a94ac3aed96ceaaaa4bca56"
+    },
+    {
+        "id": "1.16.1",
+        "type": "release",
+        "url": "https://piston-meta.mojang.com/v1/packages/54fa3af57d041d2771e66d390197b2c0288e697c/1.16.1.json",
+        "time": "2023-06-07T11:09:02+00:00",
+        "releaseTime": "2020-06-24T10:31:40+00:00",
+        "sha1": "c630879s2661ce827ada94d5a94ac3aed96ceaaa4bca56"
+    },
+    {
+        "id": "1.16",
+        "type": "release",
+        "url": "https://piston-meta.mojang.com/v1/packages/e9d21d375f9c961f0e9731d4e463306d76e77c48/1.16.json",
+        "time": "2023-06-07T11:09:02+00:00",
+        "releaseTime": "2020-06-23T16:20:52+00:00",
+        "sha1": "c6308792661asdace827a94d5a94ac3aed9aa6ceaa4bca56"
+    },
+    {
+        "id": "1.15.2",
+        "type": "release",
+        "url": "https://piston-meta.mojang.com/v1/packages/e9d0adb8f642abe422909ede50f651b2b58a3573/1.15.2.json",
+        "time": "2023-06-07T11:17:08+00:00",
+        "releaseTime": "2020-01-17T10:03:52+00:00",
+        "sha1": "c6308as792661cesd827a94d5a94ac3aed96ceaaaa4bca56"
+    },
+    {
+        "id": "1.15.1",
+        "type": "release",
+        "url": "https://piston-meta.mojang.com/v1/packages/18c3063de87ae126b4e017121219ba802be0755b/1.15.1.json",
+        "time": "2023-06-07T11:17:08+00:00",
+        "releaseTime": "2019-12-16T10:29:47+00:00",
+        "sha1": "c630as8792661ce82a7a94d5a94ac3aed96ceaaa4ddbca56"
+    },
+    {
+        "id": "1.14.4",
+        "type": "release",
+        "url": "https://piston-meta.mojang.com/v1/packages/be146d5f66a3627ed0a87c234c4d8dde8ab35098/1.14.4.json",
+        "time": "2023-06-07T11:25:16+00:00",
+        "releaseTime": "2019-07-19T09:25:47+00:00",
+        "sha1": "c630asd87926a61casde827a94d5a9a4ac3aed96ceaa4bca56"
     }
 ]
