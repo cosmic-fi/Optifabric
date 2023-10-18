@@ -6,10 +6,10 @@
     "versions": [
         {
             "id": "1.16.5",
-            "type": "snapshot",
-            "url": "https://piston-meta.mojang.com/v1/packages/456ef8d0b5c09453a116cdafa94bbe31946919fd/23w42a.json",
-            "time": "2023-10-18T11:44:30+00:00",
-            "releaseTime": "2023-10-18T11:37:28+00:00"
+            "type": "release",
+            "url": "https://piston-meta.mojang.com/v1/packages/fba9f7833e858a1257d810d21a3a9e3c967f9077/1.16.5.json",
+            "time": "2023-06-07T11:09:02+00:00",
+            "releaseTime": "2021-01-14T16:05:32+00:00"
         }
     ]
 }
