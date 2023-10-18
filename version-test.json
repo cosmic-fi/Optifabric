@@ -1,0 +1,15 @@
+{
+    "latest": {
+        "release": "1.20.2",
+        "snapshot": "23w42a"
+    },
+    "versions": [
+        {
+            "id": "1.16.5",
+            "type": "snapshot",
+            "url": "https://piston-meta.mojang.com/v1/packages/456ef8d0b5c09453a116cdafa94bbe31946919fd/23w42a.json",
+            "time": "2023-10-18T11:44:30+00:00",
+            "releaseTime": "2023-10-18T11:37:28+00:00"
+        }
+    ]
+}
