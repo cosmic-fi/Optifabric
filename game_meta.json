@@ -502,12 +502,5 @@
         "time": "2021-12-15T15:44:05+00:00",
         "releaseTime": "2014-05-14T17:29:23+00:00",
         "sha1": "c630dfasd8das26a61casdeaasda827a94dfasadaaed9wwwbca56"
-    },
-    "id": "1.7.9",
-        "type": "release",
-        "url": "https://piston-meta.mojang.com/v1/packages/5579bc9e25a9bb5e3187a2570693a0c6658edce4/1.7.9.json",
-        "time": "2021-12-15T15:44:08+00:00",
-        "releaseTime": "2014-04-14T13:29:23+00:00",
-        "sha1": "c633100sd8das26a61casdeaasda827a94o1i2kdfd9dfs56d"
-    },
+    }
 ]
